@@ -1,0 +1,6 @@
+flask
+requests
+pandas
+pytest
+python-dotenv
+pyopensky

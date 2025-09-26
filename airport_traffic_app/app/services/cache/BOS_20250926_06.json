@@ -1,0 +1,5024 @@
+[
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-25T22:40:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-26T22:09:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1677",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-25T22:40:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-26T22:09:00",
+    "airline": "Air France",
+    "flight_number": "AF 5866",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-25T22:40:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-26T22:09:00",
+    "airline": "KLM",
+    "flight_number": "KL 5012",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-25T22:40:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-26T22:09:00",
+    "airline": "LATAM Airlines",
+    "flight_number": "LA 6527",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-25T22:40:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-26T22:09:00",
+    "airline": "El Al",
+    "flight_number": "LY 4157",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-25T22:40:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-26T22:09:00",
+    "airline": "SAS",
+    "flight_number": "SK 3298",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-25T22:40:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-26T22:09:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 1528",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T00:45:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T00:21:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 475",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T00:45:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T00:21:00",
+    "airline": "LATAM Airlines",
+    "flight_number": "LA 6167",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T00:45:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T00:21:00",
+    "airline": "El Al",
+    "flight_number": "LY 4227",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T00:45:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T00:21:00",
+    "airline": "SAS",
+    "flight_number": "SK 3585",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T01:05:00",
+    "arrival_city": "Newark",
+    "arrival_time": "2025-09-26T22:33:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 447",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:15:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T06:45:00",
+    "airline": "Southwest Airlines",
+    "flight_number": "WN 2650",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:40:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T07:55:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1019",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:40:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T07:55:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 3469",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:40:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T07:55:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 4247",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:40:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T07:55:00",
+    "airline": "WestJet",
+    "flight_number": "WS 6802",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:45:00",
+    "arrival_city": "Louisville",
+    "arrival_time": "2025-09-27T08:00:00",
+    "airline": "UPS",
+    "flight_number": "5X 9715",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:45:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T08:03:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2303",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:45:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T08:03:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 4361",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:45:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T08:03:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 4285",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:45:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T08:03:00",
+    "airline": "WestJet",
+    "flight_number": "WS 6820",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:45:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:51:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5873",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:47:00",
+    "arrival_city": "Miami",
+    "arrival_time": "2025-09-27T09:20:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 1418",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:47:00",
+    "arrival_city": "Miami",
+    "arrival_time": "2025-09-27T09:20:00",
+    "airline": "JAL",
+    "flight_number": "JL 7610",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T09:50:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T07:57:00",
+    "airline": "Spirit Airlines",
+    "flight_number": "NK 2151",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Newark",
+    "arrival_time": "2025-09-27T07:25:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 1833",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Portland",
+    "arrival_time": "2025-09-27T09:09:00",
+    "airline": "Alaska Airlines",
+    "flight_number": "AS 362",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Portland",
+    "arrival_time": "2025-09-27T09:09:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 4818",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Portland",
+    "arrival_time": "2025-09-27T09:09:00",
+    "airline": "Qatar Airways",
+    "flight_number": "QR 2189",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:23:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2426",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:23:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 3240",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:23:00",
+    "airline": "WestJet",
+    "flight_number": "WS 5485",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Montreal",
+    "arrival_time": "2025-09-27T07:25:00",
+    "airline": "Air Canada",
+    "flight_number": "AC 8603",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Montreal",
+    "arrival_time": "2025-09-27T07:25:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 8123",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T09:15:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 351",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T09:15:00",
+    "airline": "Azul",
+    "flight_number": "AD 7360",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T09:15:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7815",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T09:15:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2437",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T09:15:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4443",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Toronto",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "Air Canada",
+    "flight_number": "AC 767",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Toronto",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 8529",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T07:43:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 1540",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T09:28:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 2441",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T09:28:00",
+    "airline": "ANA",
+    "flight_number": "NH 7003",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T09:28:00",
+    "airline": "Air New Zealand",
+    "flight_number": "NZ 9020",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T09:28:00",
+    "airline": "Virgin Australia",
+    "flight_number": "VA 8311",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:23:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 4652",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:23:00",
+    "airline": "British Airways",
+    "flight_number": "BA 1849",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 1414",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "ANA",
+    "flight_number": "NH 7481",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "Air New Zealand",
+    "flight_number": "NZ 2092",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T07:44:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 2159",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Tampa",
+    "arrival_time": "2025-09-27T09:21:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 891",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Tampa",
+    "arrival_time": "2025-09-27T09:21:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7891",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Tampa",
+    "arrival_time": "2025-09-27T09:21:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2473",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Tampa",
+    "arrival_time": "2025-09-27T09:21:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4411",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Dallas",
+    "arrival_time": "2025-09-27T09:19:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 2527",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Dallas",
+    "arrival_time": "2025-09-27T09:19:00",
+    "airline": "JAL",
+    "flight_number": "JL 7203",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Myrtle Beach",
+    "arrival_time": "2025-09-27T08:16:00",
+    "airline": "Spirit Airlines",
+    "flight_number": "NK 2351",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Newark",
+    "arrival_time": "2025-09-27T07:30:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5835",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Newark",
+    "arrival_time": "2025-09-27T07:30:00",
+    "airline": "SAS",
+    "flight_number": "SK 3769",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:00:00",
+    "arrival_city": "Newark",
+    "arrival_time": "2025-09-27T07:30:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 3005",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:05:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T08:01:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5741",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:05:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T08:01:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 3757",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:05:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:29:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2611",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:05:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:29:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 3400",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:05:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:29:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 7308",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:05:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:29:00",
+    "airline": "Saudia",
+    "flight_number": "SV 6858",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:05:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:29:00",
+    "airline": "Air Europa",
+    "flight_number": "UX 3328",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:05:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:29:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 4606",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:05:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:29:00",
+    "airline": "WestJet",
+    "flight_number": "WS 6836",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:10:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T09:38:00",
+    "airline": "Spirit Airlines",
+    "flight_number": "NK 448",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:10:00",
+    "arrival_city": "Salt Lake City",
+    "arrival_time": "2025-09-27T09:25:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 859",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:10:00",
+    "arrival_city": "Salt Lake City",
+    "arrival_time": "2025-09-27T09:25:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3978",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:10:00",
+    "arrival_city": "Salt Lake City",
+    "arrival_time": "2025-09-27T09:25:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 4267",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:10:00",
+    "arrival_city": "Salt Lake City",
+    "arrival_time": "2025-09-27T09:25:00",
+    "airline": "WestJet",
+    "flight_number": "WS 5461",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T09:47:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1333",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T09:47:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7899",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T09:47:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2231",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T09:32:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 479",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T09:32:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 7492",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T09:32:00",
+    "airline": "LATAM Airlines",
+    "flight_number": "LA 6569",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T09:32:00",
+    "airline": "China Eastern Airlines",
+    "flight_number": "MU 8684",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T09:32:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 2161",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "Phoenix",
+    "arrival_time": "2025-09-27T09:00:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 2315",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-27T09:35:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1410",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:15:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-27T09:35:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 3428",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:20:00",
+    "arrival_city": "Santiago",
+    "arrival_time": "2025-09-27T10:08:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 2023",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "Charlotte",
+    "arrival_time": "2025-09-27T09:01:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 624",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "Baltimore",
+    "arrival_time": "2025-09-27T08:11:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5842",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T08:09:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 455",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T08:09:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7827",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T08:09:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2035",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T08:09:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4279",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 4401",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "British Airways",
+    "flight_number": "BA 1724",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "Cathay Pacific",
+    "flight_number": "CX 7561",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "JAL",
+    "flight_number": "JL 7453",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "Malaysia Airlines",
+    "flight_number": "MH 9546",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "Qantas",
+    "flight_number": "QF 4418",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T07:56:00",
+    "airline": "Qatar Airways",
+    "flight_number": "QR 2581",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:30:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T07:46:00",
+    "airline": "UPS",
+    "flight_number": "5X 9853",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:35:00",
+    "arrival_city": "Kansas City",
+    "arrival_time": "2025-09-27T08:57:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2017",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:35:00",
+    "arrival_city": "Kansas City",
+    "arrival_time": "2025-09-27T08:57:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 2157",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:40:00",
+    "arrival_city": "Charlotte",
+    "arrival_time": "2025-09-27T09:13:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5626",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:40:00",
+    "arrival_city": "Denver",
+    "arrival_time": "2025-09-27T09:05:00",
+    "airline": "Southwest Airlines",
+    "flight_number": "WN 3535",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:40:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T10:12:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 569",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:40:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T10:12:00",
+    "airline": "Azul",
+    "flight_number": "AD 7374",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:40:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T10:12:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7929",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:40:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T10:12:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2081",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:40:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T10:12:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4475",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:45:00",
+    "arrival_city": "Fort Myers",
+    "arrival_time": "2025-09-27T10:21:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 165",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:45:00",
+    "arrival_city": "Fort Myers",
+    "arrival_time": "2025-09-27T10:21:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7949",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:45:00",
+    "arrival_city": "Fort Myers",
+    "arrival_time": "2025-09-27T10:21:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2181",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:45:00",
+    "arrival_city": "Fort Myers",
+    "arrival_time": "2025-09-27T10:21:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4377",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:50:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T09:37:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 923",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:50:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T09:37:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 3431",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:50:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T09:37:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3161",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T10:50:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T09:37:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 4253",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:19:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 397",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:19:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2113",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:19:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4395",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Raleigh/Durham",
+    "arrival_time": "2025-09-27T09:07:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1883",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Raleigh/Durham",
+    "arrival_time": "2025-09-27T09:07:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7821",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Raleigh/Durham",
+    "arrival_time": "2025-09-27T09:07:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2221",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Raleigh/Durham",
+    "arrival_time": "2025-09-27T09:07:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4367",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Punta Cana",
+    "arrival_time": "2025-09-26T11:05:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 2895",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Columbus",
+    "arrival_time": "2025-09-27T09:18:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 4424",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T08:56:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 311",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T08:56:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7861",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T08:56:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2439",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T08:56:00",
+    "airline": "Qatar Airways",
+    "flight_number": "QR 3862",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T08:56:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4345",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "West Palm Beach",
+    "arrival_time": "2025-09-27T10:23:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 21",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "West Palm Beach",
+    "arrival_time": "2025-09-27T10:23:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7945",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "West Palm Beach",
+    "arrival_time": "2025-09-27T10:23:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2209",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "West Palm Beach",
+    "arrival_time": "2025-09-27T10:23:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4349",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Indianapolis",
+    "arrival_time": "2025-09-27T09:52:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 4725",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T08:30:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5793",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T08:30:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 3678",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T10:15:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 287",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T10:15:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7867",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T10:15:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2317",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T10:15:00",
+    "airline": "Singapore Airlines",
+    "flight_number": "SQ 1531",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T10:15:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4327",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T10:25:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1401",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T10:25:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 3717",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Saint Louis",
+    "arrival_time": "2025-09-27T09:12:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 3381",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:00:00",
+    "arrival_city": "Saint Louis",
+    "arrival_time": "2025-09-27T09:12:00",
+    "airline": "Iberia",
+    "flight_number": "IB 4126",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:01:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T09:05:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 1509",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:01:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T09:05:00",
+    "airline": "Alaska Airlines",
+    "flight_number": "AS 6609",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:01:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T09:05:00",
+    "airline": "JAL",
+    "flight_number": "JL 7491",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:05:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T09:20:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2781",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:05:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T09:20:00",
+    "airline": "WestJet",
+    "flight_number": "WS 7196",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:05:00",
+    "arrival_city": "Raleigh/Durham",
+    "arrival_time": "2025-09-27T09:16:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2066",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:08:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T08:30:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 417",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:08:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T08:30:00",
+    "airline": "Aer Lingus",
+    "flight_number": "EI 5011",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:08:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T08:30:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2079",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:08:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T08:30:00",
+    "airline": "LOT Polish Airlines",
+    "flight_number": "LO 5702",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:08:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T08:30:00",
+    "airline": "Qatar Airways",
+    "flight_number": "QR 3825",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:08:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T08:30:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4315",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:10:00",
+    "arrival_city": "Saint Louis",
+    "arrival_time": "2025-09-27T09:05:00",
+    "airline": "Southwest Airlines",
+    "flight_number": "WN 1441",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:10:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T09:05:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 1535",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:10:00",
+    "arrival_city": "Miami",
+    "arrival_time": "2025-09-27T10:43:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1399",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:10:00",
+    "arrival_city": "Miami",
+    "arrival_time": "2025-09-27T10:43:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 3474",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:10:00",
+    "arrival_city": "Miami",
+    "arrival_time": "2025-09-27T10:43:00",
+    "airline": "LATAM Airlines",
+    "flight_number": "LA 6444",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:11:00",
+    "arrival_city": "Savannah",
+    "arrival_time": "2025-09-27T09:52:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 249",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:11:00",
+    "arrival_city": "Savannah",
+    "arrival_time": "2025-09-27T09:52:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2183",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:11:00",
+    "arrival_city": "Savannah",
+    "arrival_time": "2025-09-27T09:52:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4389",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T08:05:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 3211",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T08:05:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5190",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "Tampa",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1996",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "Tampa",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1996",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "Tampa",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1996",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "Dallas",
+    "arrival_time": "2025-09-27T10:26:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 760",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "Dallas",
+    "arrival_time": "2025-09-27T10:26:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3421",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "London",
+    "arrival_time": "2025-09-26T18:45:00",
+    "airline": "British Airways",
+    "flight_number": "BA 238",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "London",
+    "arrival_time": "2025-09-26T18:45:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 6981",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "London",
+    "arrival_time": "2025-09-26T18:45:00",
+    "airline": "Finnair",
+    "flight_number": "AY 5438",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "London",
+    "arrival_time": "2025-09-26T18:45:00",
+    "airline": "Aer Lingus",
+    "flight_number": "EI 8938",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:15:00",
+    "arrival_city": "London",
+    "arrival_time": "2025-09-26T18:45:00",
+    "airline": "Iberia",
+    "flight_number": "IB 3599",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "Alaska Airlines",
+    "flight_number": "AS 459",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 9302",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "Condor",
+    "flight_number": "DE 5235",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 4823",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "JAL",
+    "flight_number": "JL 6357",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 6222",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "Qatar Airways",
+    "flight_number": "QR 8824",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:33:00",
+    "airline": "Air Tahiti Nui",
+    "flight_number": "TN 2335",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T08:15:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 5251",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T08:15:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5133",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Buffalo",
+    "arrival_time": "2025-09-27T08:53:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1215",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Buffalo",
+    "arrival_time": "2025-09-27T08:53:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7915",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Buffalo",
+    "arrival_time": "2025-09-27T08:53:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2389",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Buffalo",
+    "arrival_time": "2025-09-27T08:53:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4258",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T10:34:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1797",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T10:34:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 3345",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T10:34:00",
+    "airline": "LATAM Airlines",
+    "flight_number": "LA 7926",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T10:34:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 4233",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:20:00",
+    "arrival_city": "Pittsburgh",
+    "arrival_time": "2025-09-27T09:18:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5597",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:25:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:43:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 384",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:25:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:43:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3168",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:25:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T10:43:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 3540",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:25:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T09:15:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2570",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:25:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T09:15:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3463",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:28:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T09:12:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 2764",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:30:00",
+    "arrival_city": "Nashville",
+    "arrival_time": "2025-09-27T09:22:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1630",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:30:00",
+    "arrival_city": "Houston",
+    "arrival_time": "2025-09-27T10:45:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 226",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:30:00",
+    "arrival_city": "Houston",
+    "arrival_time": "2025-09-27T10:45:00",
+    "airline": "Air New Zealand",
+    "flight_number": "NZ 6403",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:30:00",
+    "arrival_city": "Baltimore",
+    "arrival_time": "2025-09-27T09:05:00",
+    "airline": "Southwest Airlines",
+    "flight_number": "WN 1412",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:30:00",
+    "arrival_city": "Denver",
+    "arrival_time": "2025-09-27T10:02:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 647",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:30:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T10:41:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 311",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:30:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T10:41:00",
+    "airline": "Air New Zealand",
+    "flight_number": "NZ 9451",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:30:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T10:41:00",
+    "airline": "Asiana Airlines",
+    "flight_number": "OZ 6281",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:30:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T10:41:00",
+    "airline": "Virgin Australia",
+    "flight_number": "VA 8304",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:35:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T09:34:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5692",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:36:00",
+    "arrival_city": "Miami",
+    "arrival_time": "2025-09-27T11:13:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 1259",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:40:00",
+    "arrival_city": "Fort Myers",
+    "arrival_time": "2025-09-27T11:17:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2474",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:40:00",
+    "arrival_city": "Denver",
+    "arrival_time": "2025-09-27T10:10:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 499",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "Charlotte",
+    "arrival_time": "2025-09-27T10:14:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 2715",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T09:22:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1159",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T09:22:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7855",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T09:22:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2213",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T09:22:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 4357",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T09:58:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1037",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T09:58:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7847",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T09:58:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2419",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "Rochester",
+    "arrival_time": "2025-09-27T09:23:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 5847",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "Rochester",
+    "arrival_time": "2025-09-27T09:23:00",
+    "airline": "JAL",
+    "flight_number": "JL 7616",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "San Diego",
+    "arrival_time": "2025-09-27T10:50:00",
+    "airline": "Alaska Airlines",
+    "flight_number": "AS 260",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "San Diego",
+    "arrival_time": "2025-09-27T10:50:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 9416",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "San Diego",
+    "arrival_time": "2025-09-27T10:50:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 4789",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:45:00",
+    "arrival_city": "San Diego",
+    "arrival_time": "2025-09-27T10:50:00",
+    "airline": "Qatar Airways",
+    "flight_number": "QR 2044",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:50:00",
+    "arrival_city": "Las Vegas",
+    "arrival_time": "2025-09-27T10:38:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 497",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:53:00",
+    "arrival_city": "Norfolk",
+    "arrival_time": "2025-09-27T09:37:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1813",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:55:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T11:33:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 362",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:55:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T11:33:00",
+    "airline": "WestJet",
+    "flight_number": "WS 7983",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:56:00",
+    "arrival_city": "Provincetown",
+    "arrival_time": "2025-09-27T08:36:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 2051",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T11:56:00",
+    "arrival_city": "Provincetown",
+    "arrival_time": "2025-09-27T08:36:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5130",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Las Vegas",
+    "arrival_time": "2025-09-27T10:59:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1177",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Las Vegas",
+    "arrival_time": "2025-09-27T10:59:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2333",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T09:29:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5735",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Nashville",
+    "arrival_time": "2025-09-27T10:00:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1807",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Nashville",
+    "arrival_time": "2025-09-27T10:00:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7913",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Nashville",
+    "arrival_time": "2025-09-27T10:00:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2383",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "San Juan",
+    "arrival_time": "2025-09-26T12:17:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 861",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "San Juan",
+    "arrival_time": "2025-09-26T12:17:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7955",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "San Juan",
+    "arrival_time": "2025-09-26T12:17:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2289",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:14:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 2041",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:14:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7875",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:14:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2143",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T09:55:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 366",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T09:55:00",
+    "airline": "ANA",
+    "flight_number": "NH 7479",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T09:55:00",
+    "airline": "Air New Zealand",
+    "flight_number": "NZ 2084",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Aruba",
+    "arrival_time": "2025-09-26T13:00:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 2173",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T09:56:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 2355",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T09:56:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7829",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T09:56:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2016",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Newark",
+    "arrival_time": "2025-09-27T09:24:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 570",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Louisville",
+    "arrival_time": "2025-09-27T10:22:00",
+    "airline": "UPS",
+    "flight_number": "5X 5017",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T11:30:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 631",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T11:30:00",
+    "airline": "Azul",
+    "flight_number": "AD 7361",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T11:30:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7813",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T11:30:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2163",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T11:15:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 1188",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T11:15:00",
+    "airline": "JAL",
+    "flight_number": "JL 7526",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T11:15:00",
+    "airline": "Qantas",
+    "flight_number": "QF 3197",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T11:15:00",
+    "airline": "Air Tahiti Nui",
+    "flight_number": "TN 1243",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Pittsburgh",
+    "arrival_time": "2025-09-27T10:04:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1585",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Pittsburgh",
+    "arrival_time": "2025-09-27T10:04:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7837",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "Pittsburgh",
+    "arrival_time": "2025-09-27T10:04:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2195",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T09:22:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 4373",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:05:00",
+    "arrival_city": "Dallas",
+    "arrival_time": "2025-09-27T11:20:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 701",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T10:57:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 456",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T10:57:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 3933",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T10:57:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 6840",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:05:00",
+    "arrival_city": "Columbus",
+    "arrival_time": "2025-09-27T10:23:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5803",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:09:00",
+    "arrival_city": "Cancun",
+    "arrival_time": "2025-09-27T11:55:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 771",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:10:00",
+    "arrival_city": "San Juan",
+    "arrival_time": "2025-09-26T12:15:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1780",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:10:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T10:30:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1238",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:10:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T10:30:00",
+    "airline": "WestJet",
+    "flight_number": "WS 7144",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:12:00",
+    "arrival_city": "Rutland",
+    "arrival_time": "2025-09-27T09:32:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 55",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:12:00",
+    "arrival_city": "Rutland",
+    "arrival_time": "2025-09-27T09:32:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5101",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:15:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-27T11:48:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 791",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:15:00",
+    "arrival_city": "Austin",
+    "arrival_time": "2025-09-27T11:48:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2007",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:15:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T11:47:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 1008",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:15:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T11:47:00",
+    "airline": "Air New Zealand",
+    "flight_number": "NZ 9023",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:15:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T11:47:00",
+    "airline": "Virgin Australia",
+    "flight_number": "VA 8310",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:15:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T09:10:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 5031",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:15:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T09:10:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5115",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:19:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T10:01:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 3277",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:20:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T09:10:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 3011",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:20:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T09:10:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5169",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:20:00",
+    "arrival_city": "Dallas",
+    "arrival_time": "2025-09-27T11:49:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 815",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:20:00",
+    "arrival_city": "Dallas",
+    "arrival_time": "2025-09-27T11:49:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7869",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:20:00",
+    "arrival_city": "Dallas",
+    "arrival_time": "2025-09-27T11:49:00",
+    "airline": "Qatar Airways",
+    "flight_number": "QR 3833",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:21:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T10:03:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5845",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:26:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5674",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:26:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "Air France",
+    "flight_number": "AF 2541",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:26:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 3787",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:26:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "ITA Airways",
+    "flight_number": "AZ 3227",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:26:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "Kenya Airways",
+    "flight_number": "KQ 7033",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:26:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "LATAM Airlines",
+    "flight_number": "LA 6521",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:26:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "El Al",
+    "flight_number": "LY 4268",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:26:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "SAS",
+    "flight_number": "SK 3372",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:26:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 4630",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:26:00",
+    "arrival_city": "Cleveland",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "WestJet",
+    "flight_number": "WS 8139",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:30:00",
+    "arrival_city": "Augusta",
+    "arrival_time": "2025-09-27T09:48:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 1001",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:30:00",
+    "arrival_city": "Augusta",
+    "arrival_time": "2025-09-27T09:48:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5111",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:35:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T10:32:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 1239",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:35:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T10:32:00",
+    "airline": "Alaska Airlines",
+    "flight_number": "AS 4570",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:35:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T10:32:00",
+    "airline": "JAL",
+    "flight_number": "JL 7315",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:35:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T10:10:00",
+    "airline": "Southwest Airlines",
+    "flight_number": "WN 1502",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:35:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T09:32:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1324",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:41:00",
+    "arrival_city": "Panama City",
+    "arrival_time": "2025-09-26T13:33:00",
+    "airline": "Copa Airlines",
+    "flight_number": "CM 312",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:41:00",
+    "arrival_city": "Panama City",
+    "arrival_time": "2025-09-26T13:33:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 7124",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:43:00",
+    "arrival_city": "Lebanon",
+    "arrival_time": "2025-09-27T09:48:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 1871",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:43:00",
+    "arrival_city": "Lebanon",
+    "arrival_time": "2025-09-27T09:48:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5168",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:45:00",
+    "arrival_city": "Wilmington",
+    "arrival_time": "2025-09-27T11:08:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1293",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:45:00",
+    "arrival_city": "Toronto",
+    "arrival_time": "2025-09-27T10:34:00",
+    "airline": "Porter Airlines",
+    "flight_number": "PD 2940",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:45:00",
+    "arrival_city": "Toronto",
+    "arrival_time": "2025-09-27T10:34:00",
+    "airline": "Air Transat",
+    "flight_number": "TS 7018",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:45:00",
+    "arrival_city": "Jacksonville",
+    "arrival_time": "2025-09-27T11:55:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 109",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:45:00",
+    "arrival_city": "Jacksonville",
+    "arrival_time": "2025-09-27T11:55:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7933",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:45:00",
+    "arrival_city": "Jacksonville",
+    "arrival_time": "2025-09-27T11:55:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2091",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:45:00",
+    "arrival_city": "Cincinnati",
+    "arrival_time": "2025-09-27T11:13:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5601",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:45:00",
+    "arrival_city": "Indianapolis",
+    "arrival_time": "2025-09-27T11:21:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5592",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:45:00",
+    "arrival_city": "New Orleans",
+    "arrival_time": "2025-09-27T11:36:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 301",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:45:00",
+    "arrival_city": "New Orleans",
+    "arrival_time": "2025-09-27T11:36:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7943",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:47:00",
+    "arrival_city": "Raleigh/Durham",
+    "arrival_time": "2025-09-27T10:57:00",
+    "airline": "Frontier Airlines",
+    "flight_number": "F9 3057",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:50:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T11:46:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1097",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:50:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T11:46:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7903",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:50:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T11:46:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2167",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:50:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T11:46:00",
+    "airline": "Qatar Airways",
+    "flight_number": "QR 3829",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:50:00",
+    "arrival_city": "Jacksonville",
+    "arrival_time": "2025-09-27T11:45:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5826",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:56:00",
+    "arrival_city": "Provincetown",
+    "arrival_time": "2025-09-27T09:36:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 2011",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:56:00",
+    "arrival_city": "Provincetown",
+    "arrival_time": "2025-09-27T09:36:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5122",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:59:00",
+    "arrival_city": "Asheville",
+    "arrival_time": "2025-09-27T11:19:00",
+    "airline": "Allegiant Air",
+    "flight_number": "G4 226",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:59:00",
+    "arrival_city": "Rockland",
+    "arrival_time": "2025-09-27T10:19:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 1853",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T12:59:00",
+    "arrival_city": "Rockland",
+    "arrival_time": "2025-09-27T10:19:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5161",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T12:42:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1833",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T12:42:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7969",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T12:42:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2477",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "San Diego",
+    "arrival_time": "2025-09-27T12:20:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 219",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "San Diego",
+    "arrival_time": "2025-09-27T12:20:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7893",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T12:18:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 687",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T12:18:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7865",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T12:18:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2343",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T10:25:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5732",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T10:25:00",
+    "airline": "WestJet",
+    "flight_number": "WS 6813",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "Charlotte",
+    "arrival_time": "2025-09-27T11:26:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 2404",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T10:37:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 2700",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T11:11:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1748",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T11:11:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3164",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:00:00",
+    "arrival_city": "Detroit",
+    "arrival_time": "2025-09-27T11:11:00",
+    "airline": "WestJet",
+    "flight_number": "WS 7325",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:05:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T10:00:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 5071",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:05:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T10:00:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5713",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T11:54:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 385",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T11:54:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 3128",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T11:54:00",
+    "airline": "LATAM Airlines",
+    "flight_number": "LA 6296",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:07:00",
+    "arrival_city": "Provincetown",
+    "arrival_time": "2025-09-27T09:47:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 2251",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:07:00",
+    "arrival_city": "Provincetown",
+    "arrival_time": "2025-09-27T09:47:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5745",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:10:00",
+    "arrival_city": "Richmond",
+    "arrival_time": "2025-09-27T11:02:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5738",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:10:00",
+    "arrival_city": "Bermuda",
+    "arrival_time": "2025-09-27T12:35:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 203",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:15:00",
+    "arrival_city": "San Antonio",
+    "arrival_time": "2025-09-27T12:45:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2652",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:17:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T10:57:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 3240",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:20:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T11:10:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1055",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:20:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T11:10:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2411",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T12:34:00",
+    "airline": "Alaska Airlines",
+    "flight_number": "AS 537",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T12:34:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 7490",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T12:34:00",
+    "airline": "Condor",
+    "flight_number": "DE 5234",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T12:34:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 4824",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:20:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T12:34:00",
+    "airline": "Air Tahiti Nui",
+    "flight_number": "TN 2336",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:24:00",
+    "arrival_city": "Charleston",
+    "arrival_time": "2025-09-27T12:07:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 267",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:24:00",
+    "arrival_city": "Charleston",
+    "arrival_time": "2025-09-27T12:07:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2169",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:25:00",
+    "arrival_city": "Richmond",
+    "arrival_time": "2025-09-27T11:25:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1281",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:25:00",
+    "arrival_city": "Richmond",
+    "arrival_time": "2025-09-27T11:25:00",
+    "airline": "Icelandair",
+    "flight_number": "FI 7883",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:25:00",
+    "arrival_city": "Richmond",
+    "arrival_time": "2025-09-27T11:25:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2011",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:27:00",
+    "arrival_city": "Islip",
+    "arrival_time": "2025-09-27T10:58:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 211",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:29:00",
+    "arrival_city": "Norfolk",
+    "arrival_time": "2025-09-27T11:18:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5595",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:29:00",
+    "arrival_city": "Norfolk",
+    "arrival_time": "2025-09-27T11:18:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3321",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:30:00",
+    "arrival_city": "Dulles",
+    "arrival_time": "2025-09-27T11:14:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 2098",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:30:00",
+    "arrival_city": "Dulles",
+    "arrival_time": "2025-09-27T11:14:00",
+    "airline": "Avianca",
+    "flight_number": "AV 2032",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:30:00",
+    "arrival_city": "Dulles",
+    "arrival_time": "2025-09-27T11:14:00",
+    "airline": "Air China",
+    "flight_number": "CA 7380",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:30:00",
+    "arrival_city": "Dulles",
+    "arrival_time": "2025-09-27T11:14:00",
+    "airline": "Copa Airlines",
+    "flight_number": "CM 1092",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:30:00",
+    "arrival_city": "Dulles",
+    "arrival_time": "2025-09-27T11:14:00",
+    "airline": "ANA",
+    "flight_number": "NH 7101",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:30:00",
+    "arrival_city": "Denver",
+    "arrival_time": "2025-09-27T12:05:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 662",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:30:00",
+    "arrival_city": "Teterboro",
+    "arrival_time": "2025-09-27T11:03:00",
+    "airline": "Flexjet",
+    "flight_number": "LXJ 428",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:33:00",
+    "arrival_city": "Bar Harbor",
+    "arrival_time": "2025-09-27T11:05:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 1831",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:33:00",
+    "arrival_city": "Bar Harbor",
+    "arrival_time": "2025-09-27T11:05:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5157",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:35:00",
+    "arrival_city": "Milwaukee",
+    "arrival_time": "2025-09-27T11:12:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5614",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:36:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T11:28:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5693",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:38:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:00:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 4566",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:38:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:00:00",
+    "airline": "Cathay Pacific",
+    "flight_number": "CX 7548",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:38:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:00:00",
+    "airline": "Iberia",
+    "flight_number": "IB 4852",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:38:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:00:00",
+    "airline": "JAL",
+    "flight_number": "JL 7455",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:44:00",
+    "arrival_city": "Saranac Lake",
+    "arrival_time": "2025-09-27T11:38:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 1029",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:44:00",
+    "arrival_city": "Saranac Lake",
+    "arrival_time": "2025-09-27T11:38:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5128",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:45:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 3191",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:45:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T10:35:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5121",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:45:00",
+    "arrival_city": "Raleigh/Durham",
+    "arrival_time": "2025-09-27T11:56:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2118",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:50:00",
+    "arrival_city": "Phoenix",
+    "arrival_time": "2025-09-27T12:27:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 1653",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:51:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T10:46:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 5011",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:51:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T10:46:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5363",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:53:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T11:43:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 378",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:53:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T11:43:00",
+    "airline": "Avianca",
+    "flight_number": "AV 2277",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:53:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T11:43:00",
+    "airline": "Air New Zealand",
+    "flight_number": "NZ 2086",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:59:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:28:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5720",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:59:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:28:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3952",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:59:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:28:00",
+    "airline": "Kenya Airways",
+    "flight_number": "KQ 7076",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:59:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:28:00",
+    "airline": "LATAM Airlines",
+    "flight_number": "LA 6182",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:59:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:28:00",
+    "airline": "El Al",
+    "flight_number": "LY 4203",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:59:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:28:00",
+    "airline": "SAS",
+    "flight_number": "SK 3770",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:59:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:28:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 4654",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T13:59:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:28:00",
+    "airline": "WestJet",
+    "flight_number": "WS 6807",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:00:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T10:55:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 5451",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:00:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T10:55:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5352",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:00:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T10:55:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 961",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:00:00",
+    "arrival_city": "Aruba",
+    "arrival_time": "2025-09-26T15:04:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 373",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:00:00",
+    "arrival_city": "Miami",
+    "arrival_time": "2025-09-27T13:31:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 873",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:00:00",
+    "arrival_city": "Miami",
+    "arrival_time": "2025-09-27T13:31:00",
+    "airline": "Gol",
+    "flight_number": "G3 6287",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:00:00",
+    "arrival_city": "Houston",
+    "arrival_time": "2025-09-27T13:15:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 439",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:00:00",
+    "arrival_city": "Houston",
+    "arrival_time": "2025-09-27T13:15:00",
+    "airline": "Air New Zealand",
+    "flight_number": "NZ 6402",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:25:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5744",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:01:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:29:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1117",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:01:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:29:00",
+    "airline": "Aer Lingus",
+    "flight_number": "EI 5017",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:01:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:29:00",
+    "airline": "Etihad Airways",
+    "flight_number": "EY 8282",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:01:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:29:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2031",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:01:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:29:00",
+    "airline": "LOT Polish Airlines",
+    "flight_number": "LO 5804",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:01:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:29:00",
+    "airline": "Qatar Airways",
+    "flight_number": "QR 3912",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:02:00",
+    "arrival_city": "Mexico City",
+    "arrival_time": "2025-09-27T13:55:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 641",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:02:00",
+    "arrival_city": "Mexico City",
+    "arrival_time": "2025-09-27T13:55:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 8979",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:02:00",
+    "arrival_city": "Wilmington",
+    "arrival_time": "2025-09-27T12:10:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 3883",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:02:00",
+    "arrival_city": "Wilmington",
+    "arrival_time": "2025-09-27T12:10:00",
+    "airline": "British Airways",
+    "flight_number": "BA 5734",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:07:00",
+    "arrival_city": "Provincetown",
+    "arrival_time": "2025-09-27T10:47:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 2171",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:07:00",
+    "arrival_city": "Provincetown",
+    "arrival_time": "2025-09-27T10:47:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5958",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:07:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T10:57:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 3311",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:07:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T10:57:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5916",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:10:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T13:00:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 973",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:10:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T13:00:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 3733",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:10:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T13:00:00",
+    "airline": "LATAM Airlines",
+    "flight_number": "LA 6382",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:10:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T13:00:00",
+    "airline": "WestJet",
+    "flight_number": "WS 5453",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:15:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T11:05:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 3111",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:15:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T11:05:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5135",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:15:00",
+    "arrival_city": "Salt Lake City",
+    "arrival_time": "2025-09-27T13:28:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 464",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:15:00",
+    "arrival_city": "Salt Lake City",
+    "arrival_time": "2025-09-27T13:28:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 4245",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:15:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T11:01:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 952",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:19:00",
+    "arrival_city": "Houston",
+    "arrival_time": "2025-09-27T13:40:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 2033",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:19:00",
+    "arrival_city": "Houston",
+    "arrival_time": "2025-09-27T13:40:00",
+    "airline": "Qatar Airways",
+    "flight_number": "QR 3827",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:20:00",
+    "arrival_city": "Montreal",
+    "arrival_time": "2025-09-27T11:45:00",
+    "airline": "Air Canada",
+    "flight_number": "AC 751",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:20:00",
+    "arrival_city": "Montreal",
+    "arrival_time": "2025-09-27T11:45:00",
+    "airline": "Emirates",
+    "flight_number": "EK 5795",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:20:00",
+    "arrival_city": "Montreal",
+    "arrival_time": "2025-09-27T11:45:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 8443",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:23:00",
+    "arrival_city": "Bar Harbor",
+    "arrival_time": "2025-09-27T11:55:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 1835",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:23:00",
+    "arrival_city": "Bar Harbor",
+    "arrival_time": "2025-09-27T11:55:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5981",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:25:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T13:57:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 2279",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:25:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T13:57:00",
+    "airline": "Air New Zealand",
+    "flight_number": "NZ 9021",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:25:00",
+    "arrival_city": "San Francisco",
+    "arrival_time": "2025-09-27T13:57:00",
+    "airline": "Virgin Australia",
+    "flight_number": "VA 8313",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:25:00",
+    "arrival_city": "Denver",
+    "arrival_time": "2025-09-27T13:12:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 393",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:30:00",
+    "arrival_city": "Massena",
+    "arrival_time": "2025-09-27T11:50:00",
+    "airline": "Boutique Air",
+    "flight_number": "BAI 862",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:30:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:48:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 4533",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:30:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T11:53:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5702",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:31:00",
+    "arrival_city": "Louisville",
+    "arrival_time": "2025-09-27T13:03:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 4170",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:33:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T11:23:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 3251",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:33:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T11:23:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5380",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:34:00",
+    "arrival_city": "Newark",
+    "arrival_time": "2025-09-27T11:59:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 2126",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:40:00",
+    "arrival_city": "Toronto",
+    "arrival_time": "2025-09-27T12:35:00",
+    "airline": "Air Canada",
+    "flight_number": "AC 769",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:40:00",
+    "arrival_city": "Toronto",
+    "arrival_time": "2025-09-27T12:35:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 8539",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:40:00",
+    "arrival_city": "Baltimore",
+    "arrival_time": "2025-09-27T12:19:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5849",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:41:00",
+    "arrival_city": "Dallas",
+    "arrival_time": "2025-09-27T13:53:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 479",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:44:00",
+    "arrival_city": "Provincetown",
+    "arrival_time": "2025-09-27T11:24:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 2191",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:44:00",
+    "arrival_city": "Provincetown",
+    "arrival_time": "2025-09-27T11:24:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5959",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:45:00",
+    "arrival_city": "Baltimore",
+    "arrival_time": "2025-09-27T12:20:00",
+    "airline": "Southwest Airlines",
+    "flight_number": "WN 1536",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:45:00",
+    "arrival_city": "Nashville",
+    "arrival_time": "2025-09-27T12:30:00",
+    "airline": "Southwest Airlines",
+    "flight_number": "WN 1249",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:45:00",
+    "arrival_city": "State College",
+    "arrival_time": "2025-09-27T13:09:00",
+    "airline": "Wheels Up Private Jets",
+    "flight_number": "DPJ 654",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:50:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T13:57:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1728",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:50:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T13:57:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 2469",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:53:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T13:54:00",
+    "airline": "Frontier Airlines",
+    "flight_number": "F9 3511",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:55:00",
+    "arrival_city": "Charlotte",
+    "arrival_time": "2025-09-27T13:25:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5630",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:55:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T11:50:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 5151",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T14:55:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T11:50:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5704",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T12:50:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5672",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T12:50:00",
+    "airline": "Air France",
+    "flight_number": "AF 2187",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T12:50:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3306",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T12:50:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 3030",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T14:08:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1487",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "Los Angeles",
+    "arrival_time": "2025-09-27T14:08:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2313",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T12:34:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 3117",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "Saint Louis",
+    "arrival_time": "2025-09-27T13:45:00",
+    "airline": "Flexjet",
+    "flight_number": "LXJ 357",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "Tampa",
+    "arrival_time": "2025-09-27T14:20:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 491",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "Tampa",
+    "arrival_time": "2025-09-27T14:20:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2187",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T12:23:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5719",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:02:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T12:52:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 1314",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:02:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T12:52:00",
+    "airline": "ANA",
+    "flight_number": "NH 7787",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:02:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T12:52:00",
+    "airline": "Air New Zealand",
+    "flight_number": "NZ 2098",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:07:00",
+    "arrival_city": "New Orleans",
+    "arrival_time": "2025-09-27T13:42:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1398",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:09:00",
+    "arrival_city": "Raleigh/Durham",
+    "arrival_time": "2025-09-27T13:15:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 2083",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:09:00",
+    "arrival_city": "Raleigh/Durham",
+    "arrival_time": "2025-09-27T13:15:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2219",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:10:00",
+    "arrival_city": "Teterboro",
+    "arrival_time": "2025-09-27T12:11:00",
+    "airline": "Vista America",
+    "flight_number": "VJA 534",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:13:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T14:28:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 332",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:13:00",
+    "arrival_city": "Seattle",
+    "arrival_time": "2025-09-27T14:28:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 5349",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:14:00",
+    "arrival_city": "Washington",
+    "arrival_time": "2025-09-27T12:53:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 3227",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:20:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T12:15:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 5091",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:20:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T12:15:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5397",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:21:00",
+    "arrival_city": "Philadelphia",
+    "arrival_time": "2025-09-27T12:55:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5805",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:25:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T12:15:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 3371",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:25:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T12:15:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5710",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:25:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T14:52:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 2469",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:25:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T14:52:00",
+    "airline": "Azul",
+    "flight_number": "AD 7379",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:25:00",
+    "arrival_city": "Fort Lauderdale",
+    "arrival_time": "2025-09-27T14:52:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2175",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:28:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T13:24:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 1905",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:28:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T13:24:00",
+    "airline": "Cathay Pacific",
+    "flight_number": "CX 7594",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:28:00",
+    "arrival_city": "Sarasota",
+    "arrival_time": "2025-09-27T14:44:00",
+    "airline": "Allegiant Air",
+    "flight_number": "G4 1368",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:30:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T12:25:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 5171",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:30:00",
+    "arrival_city": "Nantucket",
+    "arrival_time": "2025-09-27T12:25:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5956",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:30:00",
+    "arrival_city": "Las Vegas",
+    "arrival_time": "2025-09-27T14:16:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 1577",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:30:00",
+    "arrival_city": "Las Vegas",
+    "arrival_time": "2025-09-27T14:16:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2335",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:34:00",
+    "arrival_city": "Syracuse",
+    "arrival_time": "2025-09-27T13:01:00",
+    "airline": "American Airlines",
+    "flight_number": "AA 5845",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:35:00",
+    "arrival_city": "Bermuda",
+    "arrival_time": "2025-09-27T14:40:00",
+    "airline": "BermudAir",
+    "flight_number": "BMA 302",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:36:00",
+    "arrival_city": "Cincinnati",
+    "arrival_time": "2025-09-27T14:04:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5780",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:40:00",
+    "arrival_city": "Pittsburgh",
+    "arrival_time": "2025-09-27T13:35:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 5731",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:40:00",
+    "arrival_city": "Pittsburgh",
+    "arrival_time": "2025-09-27T13:35:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3309",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:40:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T13:50:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 1103",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:40:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T13:50:00",
+    "airline": "Air France",
+    "flight_number": "AF 2750",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:40:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T13:50:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3166",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:40:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T13:50:00",
+    "airline": "WestJet",
+    "flight_number": "WS 6740",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:41:00",
+    "arrival_city": "Minneapolis",
+    "arrival_time": "2025-09-27T13:54:00",
+    "airline": "Sun Country Airlines",
+    "flight_number": "SY 252",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:45:00",
+    "arrival_city": "Denver",
+    "arrival_time": "2025-09-27T14:20:00",
+    "airline": "United Airlines",
+    "flight_number": "UA 414",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:45:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T15:08:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 2051",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:45:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T15:08:00",
+    "airline": "Azul",
+    "flight_number": "AD 7394",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:45:00",
+    "arrival_city": "Orlando",
+    "arrival_time": "2025-09-27T15:08:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2153",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:45:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T12:35:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 3091",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:45:00",
+    "arrival_city": "Martha's Vineyard",
+    "arrival_time": "2025-09-27T12:35:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5354",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:45:00",
+    "arrival_city": "Ponta Delgada (Azores)",
+    "arrival_time": "2025-09-26T20:50:00",
+    "airline": "Azores Airlines",
+    "flight_number": "S4 282",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:45:00",
+    "arrival_city": "Ponta Delgada (Azores)",
+    "arrival_time": "2025-09-26T20:50:00",
+    "airline": "TAP Air Portugal",
+    "flight_number": "TP 6564",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:48:00",
+    "arrival_city": "Augusta",
+    "arrival_time": "2025-09-27T13:06:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 1005",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:48:00",
+    "arrival_city": "Augusta",
+    "arrival_time": "2025-09-27T13:06:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 5177",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:53:00",
+    "arrival_city": "Islip",
+    "arrival_time": "2025-09-27T13:24:00",
+    "airline": "Cape Air",
+    "flight_number": "9K 213",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:55:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T13:43:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 2679",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:55:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T13:43:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3167",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:55:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T13:43:00",
+    "airline": "El Al",
+    "flight_number": "LY 4217",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T15:55:00",
+    "arrival_city": "Chicago",
+    "arrival_time": "2025-09-27T13:43:00",
+    "airline": "WestJet",
+    "flight_number": "WS 6351",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T13:18:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 644",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T13:18:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3968",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T13:18:00",
+    "airline": "El Al",
+    "flight_number": "LY 4210",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:00:00",
+    "arrival_city": "New York",
+    "arrival_time": "2025-09-27T13:18:00",
+    "airline": "WestJet",
+    "flight_number": "WS 8707",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:00:00",
+    "arrival_city": "West Palm Beach",
+    "arrival_time": "2025-09-27T15:30:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 2321",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:00:00",
+    "arrival_city": "West Palm Beach",
+    "arrival_time": "2025-09-27T15:30:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2207",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:00:00",
+    "arrival_city": "West Palm Beach",
+    "arrival_time": "2025-09-27T15:30:00",
+    "airline": "El Al",
+    "flight_number": "LY 8548",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:00:00",
+    "arrival_city": "San Juan",
+    "arrival_time": "2025-09-26T16:06:00",
+    "airline": "JetBlue",
+    "flight_number": "B6 261",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:00:00",
+    "arrival_city": "San Juan",
+    "arrival_time": "2025-09-26T16:06:00",
+    "airline": "Hawaiian Airlines",
+    "flight_number": "HA 2293",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:00:00",
+    "arrival_city": "San Juan",
+    "arrival_time": "2025-09-26T16:06:00",
+    "airline": "El Al",
+    "flight_number": "LY 8574",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T14:51:00",
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 376",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T14:51:00",
+    "airline": "Air France",
+    "flight_number": "AF 6825",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T14:51:00",
+    "airline": "Aeromexico",
+    "flight_number": "AM 5673",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T14:51:00",
+    "airline": "Korean Air",
+    "flight_number": "KE 3163",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T14:51:00",
+    "airline": "LATAM Airlines",
+    "flight_number": "LA 7175",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T14:51:00",
+    "airline": "El Al",
+    "flight_number": "LY 4528",
+    "estimated_passengers": null
+  },
+  {
+    "departure_airport": "BOS",
+    "departure_time": "2025-09-26T16:05:00",
+    "arrival_city": "Atlanta",
+    "arrival_time": "2025-09-27T14:51:00",
+    "airline": "Virgin Atlantic",
+    "flight_number": "VS 3089",
+    "estimated_passengers": null
+  }
+]
